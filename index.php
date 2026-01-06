@@ -13,4 +13,4 @@ if (!array_key_exists($page,$routes)){
    redirect('404.php');
 }
 
-redirect($routes($page));
+redirect($routes[$page]);
