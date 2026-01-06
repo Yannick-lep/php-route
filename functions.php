@@ -19,4 +19,5 @@ function dd($data)
 
 function redirect($url) {
     header("Location: " . WEB_ROOT . $url);
+    exit();
 }
