@@ -8,4 +8,3 @@ $routes = [
     'about' => 'about.php'
 ];
 
-if 
