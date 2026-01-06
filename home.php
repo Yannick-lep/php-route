@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Home</h1>
-    <p>La maison de Disney</p>
+    <p>Home sweet Home</p>
 </body>
 </html>
