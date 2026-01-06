@@ -4,4 +4,5 @@ $routes = [
     'home' => 'home.php',
     'contact' => 'contact.php',
     'about' => 'about.php'
+    'edit' => 'edit.php'
 ];
